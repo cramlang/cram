@@ -1,2 +1,1 @@
-# cram
-The Cram Programming Language
+# The Cram Programming Language
